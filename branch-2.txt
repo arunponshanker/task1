@@ -1,2 +1,3 @@
 the branch 2 file need to merg with main
-push somthing
+push something
+pushed fine u can get this confirmation with using the pull 
